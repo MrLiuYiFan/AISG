@@ -8,15 +8,11 @@ used to diagnose crossed, missing, stolen or broken RF cables by comparing the a
 connections with the site installation plan. This ping process can be used in conjunction with
 Site Mapping commands to automatically discover the RF paths.
 
-如图1为主站与ALD设备之间通信顺序图
-
-![1571396600252](C:\Users\EvansLiu\Desktop\AISG\一个主站一个ALD顺序图.png)
+如图1为主站与ALD设备之间通信顺序图![一个主站一个ALD顺序图](AISG项目功能描述.assets/一个主站一个ALD顺序图.png)
 
 ​																				图	1
 
-如图2为ALD状态切换图
-
-<img src="C:\Users\EvansLiu\Desktop\AISG\状态切换.png" alt="1571396413000" style="zoom:150%;" />
+如图2为ALD状态切换图![状态切换](AISG项目功能描述.assets/状态切换.png)
 
 ​																				图 2
 
